@@ -84,4 +84,8 @@ public class Date {
       return false;
     }
   }
+  public void methodAddedByJuanCarlos(){
+
+    System.out.println("Method add by juan carlos");
+  }
 }

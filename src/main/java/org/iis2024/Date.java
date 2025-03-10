@@ -98,21 +98,23 @@ public class Date {
     a5204a8e6212d72d5c5831611218fe618a8;
   }
   //Constructor modified by the collaborator
-    public Date(int tag, int monat, int jahr) {
-this.day = tag;
-this.month = monat;
-this.year = jahr;
-}
+  public Date(int day, int month, int year) {
+    this.day = day;
+    this.month = month;
+    this.year = year;
+  }
+
+  }
   }
     public Date(int dia, int mes, int año) {
       this.day = dia;
       this.month = mes;
       this.year = año;
     }
-    // Constructor modified by the collaborator
-    public Date(int tag, int monat, int jahr) {
-      this.day = tag;
-      this.month = monat;
-      this.year = jahr;
-    }
+public Date(int day, int month, int year) {
+  this.day = day;
+  this.month = month;
+  this.year = year;
+}
+
   }

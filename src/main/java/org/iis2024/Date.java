@@ -84,10 +84,16 @@ public class Date {
       return false;
     }
   }
+<<<<<<< HEAD
   public class Date {
     private int fieldAddedByCollaborator;
     private final int day;
     private final int month;
     private final int year;
+=======
+  public void methodAddedByJuanCarlos(){
+
+    System.out.println("Method add by juan carlos");
+>>>>>>> 86f06a5204a8e6212d72d5c5831611218fe618a8
   }
 }

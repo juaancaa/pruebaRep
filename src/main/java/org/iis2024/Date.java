@@ -94,6 +94,14 @@ public class Date {
   public void methodAddedByJuanCarlos(){
 
     System.out.println("Method add by juan carlos");
->>>>>>> 86f06a5204a8e6212d72d5c5831611218fe618a8
+>>>>>>> 86f06 Object a5204a8e6212d72d5c5831611218fe618a8;
+    a5204a8e6212d72d5c5831611218fe618a8;
+  }
+  //Constructor modified by the collaborator
+    public Date(int tag, int monat, int jahr) {
+this.day = tag;
+this.month = monat;
+this.year = jahr;
+}
   }
 }
